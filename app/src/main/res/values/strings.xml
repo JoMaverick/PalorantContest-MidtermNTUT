@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Midterm112012129</string>
+
+    <integer-array name="image_list">
+        <item>@drawable/iso</item>
+        <item>@drawable/jett</item>
+        <item>@drawable/breach</item>
+        <item>@drawable/neon</item>
+        <item>@drawable/skye</item>
+        <item>@drawable/yoru</item>
+        <item>@drawable/raze</item>
+        <item>@drawable/omen</item>
+        <item>@drawable/chamber</item>
+        <item>@drawable/killjoy</item>
+        <item>@drawable/viper</item>
+        <item>@drawable/sage</item>
+    </integer-array>
+
+    <string-array name="Name_list">
+        <item>iso</item>
+        <item>jett</item>
+        <item>breach</item>
+        <item>neon</item>
+        <item>skye</item>
+        <item>yoru</item>
+        <item>raze</item>
+        <item>omen</item>
+        <item>chamber</item>
+        <item>killjoy</item>
+        <item>viper</item>
+        <item>sage</item>
+    </string-array>
+
+</resources>
